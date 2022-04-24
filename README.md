@@ -6,5 +6,5 @@
 
 🔭 I'm currently exploring :man_cartwheeling:, FrontEnd & Laravel 
 
-:soon: New Projects :partying_face:
+### :soon: New Projects :partying_face:
 
