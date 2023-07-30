@@ -4,7 +4,6 @@
 
 :muscle: I'm currently working at [Linked Business](https://www.linkedbusiness.gr/)
 
-🔭 I'm currently exploring :man_cartwheeling:, FrontEnd & Laravel 
+🔭 I'm currently exploring :man_cartwheeling:, React, Typescript & Blockchain
 
-### :soon: New Projects :partying_face:
 
